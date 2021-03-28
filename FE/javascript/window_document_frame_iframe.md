@@ -17,7 +17,7 @@ window는 웹브라우저 창, document는 웹브라우저 창 안에 보이는 
 ## frame
 
 ## iframe
-
+https://kamang-it.tistory.com/entry/Webhttp%ED%86%B5%EC%8B%A0%EC%9D%84-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EC%96%91%EB%B0%A9%ED%96%A5-%ED%86%B5%EC%8B%A0%EA%B8%B0%EB%B2%95-hidden-iframe-streaming
 
 ### iframe 통신
 #### postMessage
